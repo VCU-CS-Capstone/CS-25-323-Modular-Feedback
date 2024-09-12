@@ -1,10 +1,18 @@
-# *Your Project Description*
-## *Sponsoring Company or Organization*
+# *CS 25-323 Modular Feedback*
+## *Sponsor: Capital One*
 ## *Short Project Description*
-The directory structure in this GitHub is to allow the project to have all its resources self-contained.
-Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
-follow in your footsteps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
-a better understanding of the problems you encountered during the development of this project. 
+Problem statement - “As a platform stakeholder, how can I collect feature specific feedback in a way that can be extensible to the Enterprise?”
+ 1. Iteration 1
+     - a. Create a web component UI module (or in Gravity?) that can be used in a plug-and-play fashion. Providing a “thumbs up” and “thumbs down” option to capture basic sentiment.
+     - b. Integrated with Clickstream out of the box (needs to be flexible to handle different implementations)
+     - c. Create basic Clickstream dashboard to display results for teams to review effectiveness of the feature
+ 2. Iteration 2
+     - a. For the “thumbs down” scenario, allow users to input their concerns into a textbox and determine a storage solution for these inputs.
+     - b. PCI data filter implementation.
+     - c. Create admin feedback UI to view feature specific verbatims and possible enhancements.
+
+ Assumptions:
+ 1. Students have access to clickstream storage
 
 | Folder | Description |
 |---|---|
@@ -17,10 +25,10 @@ a better understanding of the problems you encountered during the development of
 **Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
-- *Mentor's Name*  - *Company Affliation* - Mentor
-- *Technical Advisor Name* - *Company Affliation* - Technical Advisor
-- *Faculty Advisor's Name* - *Department* - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *Mahesh Nair*  - *Capital One* - Mentor
+- *Jonathon Headley* - *Capital One* - Technical Advisor
+- *Hong-Sheng Zhou* - *CS* - Faculty Advisor
+- *Bao Do* - *CS* - Financial Manager
+- *Ethan Scott* - *CS* - Project Manager
+- *Owen Cupps* - *CS* - System Engineer
+- *Ahmed Salih* - *CS* - Logistic Manager
