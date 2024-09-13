@@ -2,7 +2,7 @@
 ## **Capital One:**
 
 ### **Students' Names:**
-Ethan Scott, Owen Cupps, Do Bao, Ahmed Salih
+Ethan Scott, Owen Cupps, Bao Do, Ahmed Salih
 
 
 ### **Mentors:**
