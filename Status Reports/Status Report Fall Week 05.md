@@ -7,12 +7,14 @@
 **Faculty Advisor: Hong-Sheng Zhou**
 
 ## 1) Accomplishments this week ##
-   - Finish the GitHub Repo
+   - Met with project sponsor and faculty advisor
 
 ## 2) Milestones to be completed next week ##
-   - Make contact with project sponsor, technical advisor, and faculty advisor.
+   - Meet again with sponsor and/or advisor?
+   - Begin development on iteration 1 of our project
+   - Look at project proposal document to get an idea of what is next
 
 ## 3) Issues, problems or concerns ##
-   - We have not heard from our project sponsor or our techincal advisor regarding more details on our project
+   - N/A
 
 
