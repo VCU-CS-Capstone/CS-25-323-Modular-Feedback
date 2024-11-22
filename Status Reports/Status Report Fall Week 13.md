@@ -10,7 +10,7 @@
    - Designed our Fall 2024 Capstone poster
 
 ## 2) Milestones to be completed next week ##
-   - Work on weekly status reports for a major deliverable
+   - Work on weekly status reports in GitHub for Capstone class deliverable
 
 ## 3) Issues, problems or concerns ##
    - We did not make significant progress with anything for our project since week 9. Our group has been busy with commitments outside of the project.
