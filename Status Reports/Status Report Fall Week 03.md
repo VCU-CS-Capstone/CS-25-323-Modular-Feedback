@@ -11,7 +11,7 @@
 
 ## 2) Milestones to be completed next week ##
    - Make contact with project sponsor, technical advisor, and faculty advisor.
-   - Work on our project's github repo
+   - Work on our project's Github Repo
 
 ## 3) Issues, problems or concerns ##
    - N/A
