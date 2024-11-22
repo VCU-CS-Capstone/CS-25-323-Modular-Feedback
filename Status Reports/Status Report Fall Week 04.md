@@ -7,7 +7,7 @@
 **Faculty Advisor: Hong-Sheng Zhou**
 
 ## 1) Accomplishments this week ##
-   - Finish the GitHub Repo
+   - Finished our GitHub repo
 
 ## 2) Milestones to be completed next week ##
    - Make contact with project sponsor, technical advisor, and faculty advisor.
