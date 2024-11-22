@@ -7,12 +7,11 @@
 **Faculty Advisor: Hong-Sheng Zhou**
 
 ## 1) Accomplishments this week ##
-   - Met with project sponsor and faculty advisor
+   - We have a sample prototype of our project
 
 ## 2) Milestones to be completed next week ##
-   - Meet again with sponsor and/or advisor?
-   - Begin development on iteration 1 of our project
-   - Look at project proposal document to get an idea of what is next
+   - Continue improving on the prototype
+   - Work on presentation to demo our project idea to Capital One
 
 ## 3) Issues, problems or concerns ##
    - N/A
