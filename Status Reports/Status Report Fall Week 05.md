@@ -2,7 +2,7 @@
 
 **Students' Names: Bao Do, Ethan Scott, Owen Cupps, Ahmed Salih**
 
-**Mentor: Mahesh Nair, Jonathon Headley **
+**Mentor: Mahesh Nair, Jonathon Headley**
 
 **Faculty Advisor: Hong-Sheng Zhou**
 
